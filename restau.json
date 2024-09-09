@@ -1,5 +1,3 @@
-
-final List<Map<String, dynamic>> restaurants = [
   {
     'name': 'Dar dzayer',
     'description': 'Traditional',
