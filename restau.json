@@ -1,0 +1,970 @@
+[
+  {
+    "name": "Dar dzayer",
+    "description": "Traditional",
+    "phone": "0783 96 51 54",
+    "lat": 36.73371375445035,
+    "lng": 3.0756135093402963,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMZMl_AShzGNXkTl1cT476NfCDZNKa_UvoQeceh=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOrP4iyuEPFA8nJf4lQvKq0QcnJ0cViSj_-SKFr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOvj-DRJl3JvyR2KCjg9ugiqXFgtY0GB_2Un9cu=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPTH9N1Ghvs8lNuxr5U4Pod4rI6uwdv0cmKt2_V=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10:30AM – 11 PM",
+      "vendredi": "5:30 - 11 PM",
+      "samedi": "10:30AM - 11 PM",
+      "dimanche": "10:30AM - 11 PM",
+      "lundi": "10:30AM - 11 PM",
+      "mardi": "10:30AM - 11 PM",
+      "mercredi": "10:30AM - 11 PM"
+    }
+  },
+  {
+    "name": "Dar Yemma Casbah",
+    "description": "Traditional",
+    "phone": " 0550 98 08 50",
+    "lat": 36.79233693765291,
+    "lng": 3.0608847715224656,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMXswPAmwVmR_hTJhBsb2uLHLkDp0Cve6eDZG6s=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOp89m8_uBh-pMKpYody3_MnNhWSG6UDLd5_rX2=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNSZLqTEU2WZCMwNVJnN_ympO9HWMIJVM8c1mW4=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMXswPAmwVmR_hTJhBsb2uLHLkDp0Cve6eDZG6s=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11:30 AM –6 PM",
+      "vendredi": "Fermé",
+      "samedi": "11:30 AM– 4 APM",
+      "dimanche": "11:30 AM– 4 APM",
+      "lundi": "11:30 AM– 4 APM",
+      "mardi": "11:30 AM– 4 APM",
+      "mercredi": "11:30 AM– 4 APM"
+    }
+  },
+  {
+    "name": "Le Ciel d’Alger By AZ Hôtels Kouba",
+    "description": "Restaurant",
+    "phone": "0561 66 75 63",
+    "lat": 36.74237634646824,
+    "lng": 3.0918567780518402,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPPfDBXpwbBTEQL1Dnd2elEyufaY2m6dlOfBtC6=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPNmLk1Pi85a-R2xWHhNKNSt16NdIzWAd9LkKpr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPFna65gGP2atwE4PvYBWRT8V2clhkctDLZrS13=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOWm86HkKitq_Kdxplin-XrxBtnLRJZAkAIBCSJ=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 - 11 PM",
+      "vendredi": "12 - 11 PM",
+      "samedi": "12 - 11 PM",
+      "dimanche": "12 - 11 PM",
+      "lundi": "12 - 11 PM",
+      "mardi": "12 - 11 PM",
+      "mercredi": "12 - 11 PM"
+    }
+  },
+  {
+    "name": "Le Roi de la Loubia",
+    "description": "Algerian Restaurant",
+    "phone": "021740291",
+    "lat": 36.78167216348595,
+    "lng": 3.0596787800555005,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipO2GNQnIZBbyIS2M-TdBVSyQo44UjwafggvRi3W=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOASZJ1vWmBpTUaP9lplXsVNd-Lb12ZIjJNOSLt=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN_ZARshfs7lnsRClG9kLu24jH66o0Q5T7KzbmS=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNu-Quy5txtTt4Svx-HOfB5BYzU0DifMAxVbBtT=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10AM - 8PM",
+      "vendredi": "10AM - 8PM",
+      "samedi": "10AM - 8PM",
+      "dimanche": "10AM - 8PM",
+      "lundi": "10AM - 8PM",
+      "mardi": "10AM - 8PM",
+      "mercredi": "10AM - 8PM"
+    }
+  },
+  {
+    "name": "Restaurant El Walima Alger",
+    "description": "Algerian Restaurant",
+    "phone": "0540 75 41 45",
+    "lat": 36.7666846623802,
+    "lng": 3.052238997295319,
+    "images": [
+      "https://lh5.googleusercontent.com/p/AF1QipNH-8lunYOg0DyroF_PkKjYxXM2aPYO6Ccbg4o=w260-h175-n-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipPBSG0W0P15H0ORKymxX9j4xf8_qef2wwiTpAL9=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMqImpAfzQX21cQgVoH2f55AgwCNcO-Wtp836mH=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPST0edvuwdWOfIjUJQWNgXcZySzPWbdyq3zEM=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 11PM",
+      "vendredi": "11AM - 11PM",
+      "samedi": "11AM - 11PM",
+      "dimanche": "11AM - 11PM",
+      "lundi": "11AM - 11PM",
+      "mardi": "11AM - 11PM",
+      "mercredi": "11AM - 11PM"
+    }
+  },
+  {
+    "name": "Kheima de la citadelle",
+    "description": "Algerian Restaurant",
+    "phone": "0658 20 76 16",
+    "lat": 36.73907754107089,
+    "lng": 3.0996986006969562,
+    "images": [
+      "https://lh5.googleusercontent.com/p/AF1QipNbUsJI52iXY5eFf-2CHtC76NUwLTUZ6YhJTuZd=w260-h175-n-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNiqETKC_ZwMO2ilomSHmObtZIoXKh1NqVPReGc=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNK2tHPor70_JogughRl5QCnNciLq7EXci_N05W=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNMp5epuRKOGxYq--oidN92W9NnSM1Ufjcpyi9R=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO5GdOR2ZnDQ12ovfCFS2BD1fy9FzGBBnV1VEtC=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 11PM",
+      "vendredi": "11AM - 11PM",
+      "samedi": "11AM - 11PM",
+      "dimanche": "11AM - 11PM",
+      "lundi": "11AM - 11PM",
+      "mardi": "11AM - 11PM",
+      "mercredi": "11AM - 11PM"
+    }
+  },
+  {
+    "name": "Le Bon Gibier",
+    "description": "Restaurant",
+    "phone": "021 66 29 80",
+    "lat": 36.744844912637774,
+    "lng": 3.0736127328146083,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMhzTVyPzKvYRkfAEUOB_1-jQ1MJS08JGVWuuVC=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOGjx_sZqijYUTbIo39hs0fEmEQPnGwoUyfHX0=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPuStfd118lCnidV1t_GdD3Kz7xzLMY3soZNQ7G=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNxVvOoVIz8x10W2YH7f3t1qdbCvIxelyof4ZRE=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12PM - 12AM",
+      "vendredi": "12PM - 12AM",
+      "samedi": "12PM - 12AM",
+      "dimanche": "12PM - 12AM",
+      "lundi": "12PM - 12AM",
+      "mardi": "12PM - 12AM",
+      "mercredi": "12PM - 12AM"
+    }
+  },
+  {
+    "name": "Restaurant Traditionnel Mezgha",
+    "description": "Algerian Restaurant",
+    "phone": "0656 44 39 11",
+    "lat": 36.783669261444196,
+    "lng": 3.0593088305994005,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipP1h0jxFIABXAE_mEjs9UaYhgVcU38o_P-vV5Gi=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNxTgUTiaVHykR-dP2vu0q3WyvRlDrRak0ELZF7=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMlKhHjl_CD6Ua7Squxvy20xd7eEmvVe5S5RLXZ=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipP2xZ2uTAiC-DMpyXew1eiTqJZzMEN068uJ6EHm=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPP2EsbqWc4ufwCxVB6mUrHBZyBiHrYf8fA5-9e=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "non déclaré",
+      "vendredi": "non déclaré",
+      "samedi": "non déclaré",
+      "dimanche": "non déclaré",
+      "lundi": "non déclaré",
+      "mardi": "non déclaré",
+      "mercredi": "non déclaré"
+    }
+  },
+  {
+    "name": "Le Repère",
+    "description": "Restaurant",
+    "phone": "0663 14 96 30",
+    "lat": 36.78936094396905,
+    "lng": 3.057634266604476,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMEZIXAQzXvtLbDtNur6oNg8gQjvNlGTZZjHFEi=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPszq1J8thf36kp3otSSPTno0JzdNx6vprXdYw7=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOd7MoGh2L2vggfBQgVtctGv3eJeQT-cmtZA0zH=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN-1ryE_mNlng5HCYmGw6LvZylofx1ykWecdv7I=s680-w680-h510",
+      "https://lh5.googleusercontent.com/p/AF1QipNa13iK1V-w2YFd2w2GulqFstIzYSIMEAqvu3jz=w143-h238-n-k-no-nu"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 4:30PM",
+      "vendredi": "Fermée",
+      "samedi": "11AM - 4:30PM",
+      "dimanche": "11AM - 4:30PM",
+      "lundi": "11AM - 4:30PM",
+      "mardi": "11AM - 4:30PM",
+      "mercredi": "11AM - 4:30PM"
+    }
+  },
+  {
+    "name": "Sapori",
+    "description": "Restaurant",
+    "phone": "0540 55 94 00",
+    "lat": 36.785240389393664,
+    "lng": 3.062052189156609,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPCX5v1lQqxoZGxhb1Q1lB1KaUWjwJb6dMzqGzi=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNi9afF8VIPYQIsqYWpMExLYh72Ehbv6qxh0kQL=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM7YcnUZSlmVRbxWikX_owrRJMQOIR7PhLXl9Hi=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNbRMH5mJbHRf8uYIk59mSWX4gaslkonQUVxgk=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM0bDYERnpnhVCL9HlehtuzRicOwf7Mq0IRe4gG=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 2:30PM - 7-11PM ",
+      "vendredi": "11AM - 2:30PM - 7-11PM ",
+      "samedi": "11AM - 2:30PM - 7-11PM ",
+      "dimanche": "Fermée",
+      "lundi": "11AM - 2:30PM - 7-11PM ",
+      "mardi": "11AM - 2:30PM - 7-11PM ",
+      "mercredi": "11AM - 2:30PM - 7-11PM "
+    }
+  },
+  {
+    "name": "Resto Sarah, chez kamel",
+    "description": "Restaurant",
+    "phone": "0771 17 18 80",
+    "lat": 36.7570460936522,
+    "lng": 3.0396091788130857,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMRbYLbsebQ4D3poo-bxoVSVuXxsgnLXpOfPtmK=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMp_VvMYd7yBRlb0XhtK8Eb7rLqx4XlSHRsKtfr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOimoQNg7Vv0VU0XTOBEdzX-6zGrmbYXBN-ss2s=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMBTx7m2d1HObrjpYc2dhrpdquvbU-57n-sV2UN=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMDaa14lOXMD0UCX4IBa9_NoC-0qC86DsMjMa_R=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 5PM ",
+      "vendredi": "Fermée",
+      "samedi": "11AM - 5PM ",
+      "dimanche": "11AM - 5PM ",
+      "lundi": "11AM - 5PM ",
+      "mardi": "11AM - 5PM ",
+      "mercredi": "11AM - 5PM "
+    }
+  },
+  {
+    "name": "خيمة الحضنة بئرمرادرايس",
+    "description": "Restaurant",
+    "phone": "0791 54 58 52",
+    "lat": 36.743202488479376,
+    "lng": 3.0493566325627106,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMYDF54s55DoTv0hlYrK53Dtz-3TMToXL27G0T-=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPeN1HmNS-yY2lt3VVes9joVAYUbJku0y_lkPFr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN8wV2pj8Av05aBmA5yiVNOfJUq5q2HLJ5BiOvq=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNRIiAhnDej5oP2Gbr9LnYebcyI4F2APmESppfD=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMqcOBB_W0VTYAiq2E5BUxdI55wDuUQ8ESoG-BF=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 12PM ",
+      "vendredi": "11AM - 12PM ",
+      "samedi": "11AM - 12PM ",
+      "dimanche": "11AM - 12PM ",
+      "lundi": "11AM - 12PM ",
+      "mardi": "11AM - 12PM ",
+      "mercredi": "11AM - 12PM "
+    }
+  },
+  {
+    "name": "Dar el Chdjour",
+    "description": "Restaurant",
+    "phone": "**",
+    "lat": 36.78575108723012,
+    "lng": 3.05741648931412,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipP7FLRT2oGxKQxSzC6UI3XcBkZA6b8hqtpKexjz=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOmjTrwXPkRXppPJ9GoRYS3w5qER-9bCHZHhTgw=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPdGkenF8hNuQp_Nq-bjvlfOKHdBAxrf9jrVzEU=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNE29xE5fK7QrLyN-Rqd7WEht2At9OVCK5tbQAl=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNi9uMxsSJrnFrgUOPQ9PeRaiJzKjE9rxlRQagI=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "24 Heures",
+      "vendredi": "24 Heures",
+      "samedi": "24 Heures",
+      "dimanche": "24 Heures",
+      "lundi": "24 Heures",
+      "mardi": "24 Heures",
+      "mercredi": "24 Heures"
+    }
+  },
+  {
+    "name": "Restaurant El Djenina مطعم الجنينة",
+    "description": "Restaurant",
+    "phone": "021 61 40 26",
+    "lat": 36.765091546236484,
+    "lng": 3.0469380654056315,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipN0HEuifGSeCvXlzLEauO3j2QALJhCV3qx1jSbV=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM2DSZo_8ZkqJy_5GpSOuZlfgstPvrMYkfx4WYU=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOmyAYqMP0Khq6QvsZJPRtvPTPDa_uzAkK-Mt3M=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipP9bAdff6UE_PESeuD_JhlWui2BLArWDawk8uNZ=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMO3Ak4JYTkSl4bJ9pYs1XRWGN83jxALoxt-UqH=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNKWgU9YX9jEudFofGIEourahWKu8UDTLBkK8f_=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 - 11PM",
+      "vendredi": "Fermée",
+      "samedi": "12 - 11PM",
+      "dimanche": "12 - 11PM",
+      "lundi": "12 - 11PM",
+      "mardi": "12 - 11PM",
+      "mercredi": "12 - 11PM"
+    }
+  },
+  {
+    "name": "El Marssem",
+    "description": "Restaurant",
+    "phone": "023 54 46 17",
+    "lat": 36.7440271209485,
+    "lng": 3.04197384159764,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipN98tIJZmdRYEwWjvNJeGN1U1YWtneskP9FSWYf=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMHQ-U6zLbqRyKe3095tN9qh1YtzGI115zv_7fz=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO_lNXKxZg8lbMusS1NyLXcF9t2wZb1XUoWupSQ=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNzJrc8AM1BdP3YE-Q3YcV3tGORc8kKwYiYvkN2=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNK8RKlDXfeRgd92sXT8TtQp1e0S5f30lfnkgdM=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMmeOREdp6QJ-zKIv1y0hSC0EnoC87C5wHia3Vq=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10AM - 11PM",
+      "vendredi": "10AM - 11PM",
+      "samedi": "10AM - 11PM",
+      "dimanche": "10AM - 11PM",
+      "lundi": "10AM - 11PM",
+      "mardi": "10AM - 11PM",
+      "mercredi": "10AM - 11PM"
+    }
+  },
+  {
+    "name": "Caracoya",
+    "description": "Restaurant",
+    "phone": "044 19 08 00",
+    "lat": 36.77225154876298,
+    "lng": 3.053500011200708,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPObdwLptGJ5AipvpzfGhDl1fIf-gemVUOJj-AN=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMHfthcTtbBlpuyhyr7f9hWt6RSjJVyvCq74dk0=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMQA3rEx6WDiXn0jbZUSMqy2YZ-EM1m9gVqmsHb=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipP9s8I2VgHxFUnysDvWpqYLqt7NIyBaoZjG6LY=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOdUop4C2NL5-XBql5VuMOYLaEC2dDLD5mdGYdy=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOec2knS8K58Essyg1Gw4lZWHw3Fyc8uWA51hYb=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 - 11PM",
+      "vendredi": "4 - 11PM",
+      "samedi": "12 - 11PM",
+      "dimanche": "12 - 11PM",
+      "lundi": "12 - 11PM",
+      "mardi": "12 - 11PM",
+      "mercredi": "12 - 11PM"
+    }
+  },
+  {
+    "name": "Restaurant Hadja Maghnia",
+    "description": "Restaurant",
+    "phone": "0553 13 03 61",
+    "lat": 36.74117898002946,
+    "lng": 3.100653664224669,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOzAA8zj51AXH15UtMt1l-m_bLQs2gczl05VU_e=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNaAhu2I-5HLBneNMz_Jr9H1J_ehLg6x-kpUuSI=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPEFO2zFQ9Dtmq6bbkfH99_myl3DBekiSBHyr05=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPkq_aDsHp3zlDIzOSFfqBdNi179vJlbjsoDyx8=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPUJopK1GuEcgS6EH-adgb890BRnqIjslSMUUJR=s680-w680-h510"
+    ],
+    "openingHours": {}
+  },
+  {
+    "name": "Weekly.algeria",
+    "description": "Restaurant",
+    "phone": "0560 77 00 06",
+    "lat": 36.744898996145864,
+    "lng": 3.035058764337824,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPfrb9R2Jw_uIRGZAUR9MqZsuB9KGfpAcaJ1Apv=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNxkchuK1BeoeIOXdiDLNJgA9KfZWO-6qZRl8CL=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNu-SAg0cT8f5dA8I2eUVEnjTa9hlZmia255iDO=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMtviNN4UM2klyodGV1PhsFyYc8_HcVFD0FaRVi=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "7AM - 11:30PM",
+      "vendredi": "12 - 11:30PM",
+      "samedi": "7AM - 11:30PM",
+      "dimanche": "7AM - 11:30PM",
+      "lundi": "7AM - 11:30PM",
+      "mardi": "7AM - 11:30PM",
+      "mercredi": "7AM - 11:30PM"
+    }
+  },
+  {
+    "name": "Restaurant Traditionnel lalla Meriem",
+    "description": "Traditional Restaurant",
+    "phone": "0540 69 73 29",
+    "lat": 36.76523426289438,
+    "lng": 3.0255649335732,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOZ1lNxMQAlJV14jiIWqRjOst1z9DJBSrGqeHJI=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOiqXTpXuW707iftRXKFnrbd0Td_k2yhkBRtPT5=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPpD2SHru-CNOqEo74Av83_W-8KQRIo2xkgV9RG=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN-CiO9UxxUhXaHBJv52uJTkGK-vRoX3XNlbNqm=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNszAEpwfV445YAbGlFgNB7OcOfaOzIlSYPLr56=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10AM - 11PM",
+      "vendredi": "10AM - 11PM",
+      "samedi": "10AM - 11PM",
+      "dimanche": "10AM - 11PM",
+      "lundi": "10AM - 11PM",
+      "mardi": "10AM - 11PM",
+      "mercredi": "10AM - 11PM"
+    }
+  },
+  {
+    "name": "Les Orientalistes",
+    "description": "Restaurant",
+    "phone": "0770 95 54 55",
+    "lat": 36.74571862646578,
+    "lng": 3.0775975237952586,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOagwxAc_Ck6wHkb1E88OtL46fIcyc_cCIf44aS=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM5M-JsRMNfT1zDd5arkonmVBo04xk55HmzWx5g=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOYEsu6zaS9QfcfP3FcvIHpILPKzUmIIyiTrGzN=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPEz3XhpHc80HhTnVnh3YkkJdGoCEMC52Udch8h=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNozVvMi9e6PdaMagZ55hsLI21FE9cW_kgmJHbh=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMRFHAGZb3bwmS_Fa16kzmHH0uuY6NQwwDHtksl=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 - 2",
+      "vendredi": "6 - 2",
+      "samedi": "12 - 2",
+      "dimanche": "12 - 2",
+      "lundi": "12 - 2",
+      "mardi": "12 - 2",
+      "mercredi": "12 - 2"
+    }
+  },
+  {
+    "name": "Restaurant Le Tajine",
+    "description": "Moroccan restaurant",
+    "phone": "023 38 01 57",
+    "lat": 36.774686292845715,
+    "lng": 3.0394865024427036,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipP9hyF8x09LcJB1BuGvZr0KJ25IcQM1YRyBKrFu=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMTME2n-VR4a0kcS7ggTpqD8jUIzfYqUk88bw8O=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPT5m1LLYp0GCp0D9mWNWJgb3khtZXISoarzWEq=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNDyQxmy4phdSj3iRo1NUqs1vejpGSDZFgKZTCA=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNYnUGxEAIyCetWgu85PUWaWid5cJ0YnCCgrIVy=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMY0KdFDQwRQLRqxXYpcaC-DK_47XhpzF5yGUju=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11:30AM - 3PM, 6:30 - 11PM",
+      "vendredi": "6:30 - 11PM",
+      "samedi": "11:30AM - 3PM, 6:30 - 11PM",
+      "dimanche": "Fermée",
+      "lundi": "11:30AM - 3PM, 6:30 - 11PM",
+      "mardi": "11:30AM - 3PM, 6:30 - 11PM",
+      "mercredi": "11:30AM - 3PM, 6:30 - 11PM"
+    }
+  },
+  {
+    "name": "Restaurant Arabesque Alger",
+    "description": "Restaurant",
+    "phone": "0540 99 33 22",
+    "lat": 36.7703660493199,
+    "lng": 3.0532666339272727,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMWVFVYHejZcWudmmnej-mw_pUMb1Pler_L2Cln=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOhSR-CgLB3FqXTQ6Cosn9Ie9JvJ5l-EpA1z9cF=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOMLqdyJ9RQpTv6vQKK_NB5TKuSQsiVcr4areWw=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN5grGV_Z2czfe8Jl9LTblBR4FAmLYcQgN5cu3C=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMkv1Omvwm8lglkF0o-QT5JpizofSftp61JRqvc=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOiOr-SjevpyYoCvcue1KWSCm7EWa-9DokbPlFS=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11AM - 10:30PM",
+      "vendredi": "5:30 - 10PM",
+      "samedi": "11AM - 10:30PM",
+      "dimanche": "11AM - 10:30PM",
+      "lundi": "11AM - 10:30PM",
+      "mardi": "11AM - 10:30PM",
+      "mercredi": "11AM - 10:30PM"
+    }
+  },
+  {
+    "name": "Dar El Karam",
+    "description": "Restaurant",
+    "phone": "0771 63 81 89",
+    "lat": 36.76422262858206,
+    "lng": 3.026433079079909,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPoCUM-pWIv-s2P5TTQzJhwlxy0Efow8deoa0r5=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipODKGnVCdpo1T4ocDSDVKmSF_rQbcuKjsfBFcic=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMzz0cnjENpSniHGALv2o2HRrbqty_Yj_1NGacG=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNTofuTvIQYmR4kDqwWX1R8UIpscg1YCO_Y7noV=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNkam03ypGTj4MRrjDXK0fBmvVNh5QuFN3zf2bR=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOib8Og8zxahcI55nMw6KnubWWXPPKtC6ba7-Ux=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11:30AM - 10PM",
+      "vendredi": "Fermée",
+      "samedi": "11:30AM - 10PM",
+      "dimanche": "11:30AM - 10PM",
+      "lundi": "11:30AM - 10PM",
+      "mardi": "11:30AM - 10PM",
+      "mercredi": "11:30AM - 10PM"
+    }
+  },
+  {
+    "name": "Le Bardo Restaurant مطعم الباردو",
+    "description": "Restaurant",
+    "phone": "0770 50 24 98",
+    "lat": 36.76772070471918,
+    "lng": 3.0503348702935367,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMaoNLAXUVYpqlsXTXSZJOKhGjI4N5fsIvkKcEZ=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPT3M7VvOhu980uOSIIk3tMHUEdtLesZz21RqRl=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN3Qu6vmMc-2HWtcltcIRzl8LASD-xeR84-GRqR=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMhg1B0TOh2pLRhDuOi-o26KvHLe0Wd1KU0zwEP=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNTdisWa9haJOkBrJSPTSV8DVGUQ_tA15A7T9ps=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMK4kpbvBWLOqvLRGE3A1-R7-6TO1rYrC_aPLli=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12–2:30 PM, 7–10:30 PM",
+      "vendredi": "12–2:30 PM, 7–10:30 PM",
+      "samedi": "12–2:30 PM, 7–10:30 PM",
+      "dimanche": "12–2:30 PM, 7–10:30 PM",
+      "lundi": "12–2:30 PM, 7–10:30 PM",
+      "mardi": "12–2:30 PM, 7–10:30 PM",
+      "mercredi": "12–2:30 PM, 7–10:30 PM"
+    }
+  },
+  {
+    "name": "Restaurant Couzina",
+    "description": "Restaurant",
+    "phone": "0549 07 43 12",
+    "lat": 36.74789738360256,
+    "lng": 3.0312238239269775,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipO0HgJ0jCabVsv87f3VrGwG_fXxChpZ8_jMsH3H=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNxYfC8R-C-oc2NDHiirv0nkuLmwzRB2h93FR0k=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipP5doAvT-6A3ZySzH1hlnflPF40YIa_1jfEpqan=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMegyrqMW-8TbchnoKee3QvceQxdCOM-1dumEJu=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMCvwWm4jJFiwrg_Z_l5WUXfvTC9WHEHsf-cwt0=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11:30 AM–11 PM",
+      "vendredi": "11:30 AM–11 PM",
+      "samedi": "11:30 AM–11 PM",
+      "dimanche": "11:30 AM–11 PM",
+      "lundi": "11:30 AM–11 PM",
+      "mardi": "11:30 AM–11 PM",
+      "mercredi": "11:30 AM–11 PM"
+    }
+  },
+  {
+    "name": "Restaurant Le Bearnais",
+    "description": "Restaurant",
+    "phone": "021 63 03 07",
+    "lat": 36.7698239852324,
+    "lng": 3.0537311477634272,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMq7fnBXPwKefXgWPXl4D9Lsuk5yv8S5zyry5MM=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMH0VYaHaRYAODyaVk0Y2VAFNamBnVZ695L1PaW=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMT5H1s2ty36mKbTL3G4Y55YTMnr4mq4YQ5OeA=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOVToq4bYdq36LhjqzeF0eoY3IWl24nj7-x-ESP=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPtY6-OYgEAfZZ8GqVBUXw9EUUlrReBMbSWAsqQ=s680-w680-h5100"
+    ],
+    "openingHours": {
+      "jeudi": "12–10:30 PM",
+      "vendredi": "12–2:30 PM, 6–10:30 PM",
+      "samedi": "12–10:30 PM",
+      "dimanche": "12–10:30 PM",
+      "lundi": "12–10:30 PM",
+      "mardi": "12–10:30 PM",
+      "mercredi": "12–10:30 PM"
+    }
+  },
+  {
+    "name": "La Palmeraie Restaurant مطعم النخيل",
+    "description": "Country food restaurant",
+    "phone": "0562 36 36 36",
+    "lat": 36.75923146315162,
+    "lng": 2.9943519878074825,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOaMxi9VKs1xGodP0UdNmd7y9XPp3CYs-xxgV4c=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPk4Q5ex4Afp8747wJwZX-bghoLXkmZF62sZRXr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO3nOxBQF5T1Z0ty04XIkemvROWH6CE1u_oTQDQ=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMnUVUhoLcSIa6Ds_auBCiWM8E5BV1EO_D56RoY=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMqhkGik-LSmX4QezBT45R0fW6nzQH7C2VkIK9z=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11:30 AM–12 AM",
+      "vendredi": "2PM - 12AM",
+      "samedi": "11:30 AM–12 AM",
+      "dimanche": "11:30 AM–12 AM",
+      "lundi": "11:30 AM–12 AM",
+      "mardi": "11:30 AM–12 AM",
+      "mercredi": "11:30 AM–12 AM"
+    }
+  },
+  {
+    "name": "تاج محل بن عكنون",
+    "description": "Indian Food Restaurant",
+    "phone": "044 99 62 97",
+    "lat": 36.7596378448646,
+    "lng": 3.0091618106845686,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipNpj0lrJiEjufVNV4968ru7vGD-0XTNQ5RBQmHA=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNcvIYpelL12ZfZEk4jaeeNjGCvH7cdeNvO3yUB=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMNCp2CFZcRuKf9h3OLaUhoA9YtGbOq1ZZMn431=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMYQxq-f8TBXIIgj7BGRv7CjwrXXDKs3yV8pvRY=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM_C5YoDvHngwugN2dvwZZGxknd_JYFWDBNc9Sc=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11 AM–11:30 PM",
+      "vendredi": "12:30 AM–11:30 PM",
+      "samedi": "11 AM–11:30 PM",
+      "dimanche": "11 AM–11:30 PM",
+      "lundi": "11 AM–11:30 PM",
+      "mardi": "11 AM–11:30 PM",
+      "mercredi": "11 AM–11:30 PM"
+    }
+  },
+  {
+    "name": "La Belle Époque",
+    "description": "Restaurant",
+    "phone": "0561 15 00 08",
+    "lat": 36.75891574703895,
+    "lng": 3.032945901694408,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPSfxw8FTgvEs--1nWzFYeLwuE_e63ZWdRFAlXM=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMulUs8e-3DFRBFi9S3jNIAhoBMbiGWmdu1sSVA=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN6UwvY9--xQfm3tWK6HX8zrX4hKEJU1PaLhKOK=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOAofsP3C2wVNRDjWptUr4MUvEpHLq19JP-jK1w=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNDLald2-pK5PKy5ZT3MtxEN5jM7Bbr0HyrWQZX=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "8 AM–12 AM",
+      "vendredi": "8 AM–12 AM",
+      "samedi": "8 AM–12 AM",
+      "dimanche": "8 AM–12 AM",
+      "lundi": "8 AM–12 AM",
+      "mardi": "8 AM–12 AM",
+      "mercredi": "8 AM–12 AM"
+    }
+  },
+  {
+    "name": "Algerian cuisine",
+    "description": "Restaurant",
+    "phone": "0554 63 59 64",
+    "lat": 36.758365031707406,
+    "lng": 2.886684587871896,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipODs1ku9J37FFmdN2FpIHzy7Y5xqagbnUXBuVdo=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM8rr_udRAuKv5sqBVyJB5UwHq96R5w7Mmkb8cE=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNRhVXY616rhESBnIJe03Qw2MEIfwUOuai30H1x=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipND-RIj7btEkZIDLTG4EGZnASDWFk7h-HMrESDU=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "9 AM–12 AM",
+      "vendredi": "9 AM–12 AM",
+      "samedi": "9 AM–12 AM",
+      "dimanche": "9 AM–12 AM",
+      "lundi": "9 AM–12 AM",
+      "mardi": "9 AM–12 AM",
+      "mercredi": "9 AM–12 AM"
+    }
+  },
+  {
+    "name": "مطعم دار السلطان",
+    "description": "Restaurant",
+    "phone": "0771 91 29 68",
+    "lat": 36.79084414255224,
+    "lng": 3.0624472803923446,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMzq78eLXVaxrYP2Csn0SN1xxBN_NH5-OxAqP6h=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPqGWd8B9z0o-PMJ2MSLnxh2k7sjk8wRssYy_5-=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPEvhtmv3F1NQQeWXDxI8gUm4679CQDRBqryEe2=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPKGrXfeE1vY848Wtwjjnccpwv1W6qvnOnyxBkK=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "24 heures",
+      "vendredi": "24 heures",
+      "samedi": "24 heures",
+      "dimanche": "24 heures",
+      "lundi": "24 heures",
+      "mardi": "24 heures",
+      "mercredi": "24 heures"
+    }
+  },
+  {
+    "name": "Garden Restaurant Al Boustane",
+    "description": "Restaurant",
+    "phone": "0794 31 98 02",
+    "lat": 36.74580860287953,
+    "lng": 3.077409164461403,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipNv7KWAyHykNUIgoJGkknc_ljxRfOxhQ22OfiJX=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNPGxzWxl_739RIBoCIIQqpIV6NaPtrRbU-B2HT=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMIEZJhZq48lDfA8nUR4XUuubtSxnTk44ghLo0s=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO9nwoKy2ekKnHqbG9WUTtbA--w9uVhXwAw-gD6=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12–3 PM, 7 PM–12 AM",
+      "vendredi": "12–3 PM, 7 PM–12 AM",
+      "samedi": "12–3 PM, 7 PM–12 AM",
+      "dimanche": "12–3 PM, 7 PM–12 AM",
+      "lundi": "12–3 PM, 7 PM–12 AM",
+      "mardi": "12–3 PM, 7 PM–12 AM",
+      "mercredi": "12–3 PM, 7 PM–12 AM"
+    }
+  },
+  {
+    "name": "YAK Steak House DZ",
+    "description": "Steak House",
+    "phone": "0770 12 12 34",
+    "lat": 36.76921512345575,
+    "lng": 3.0481324883028487,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMbDPKwg91wcFAIdcKWeNkLZGIuvpZG9iTH4ECl=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPJyUCzB7C6swmsRQBLW69WV1GUSZTePKz8moxm=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOhqvpev1t6VjgySl8e9pUWsQZaztH238n1oMho=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "7 PM–3 AM",
+      "vendredi": "7 PM–3 AM",
+      "samedi": "7 PM–3 AM",
+      "dimanche": "7 PM–3 AM",
+      "lundi": "7 PM–3 AM",
+      "mardi": "7 PM–3 AM",
+      "mercredi": "7 PM–3 AM"
+    }
+  },
+  {
+    "name": "مطعم سوري",
+    "description": "Syrian Restaurant",
+    "phone": "0540 52 00 20",
+    "lat": 36.73326585844139,
+    "lng": 3.178334941091583,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOGUAHUF3a9i71DQL0_5HxltOfdXM8J7d6RKAnr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOJxmG8VW45_f6_YeuzZVvQWeO7Cx11GQ6evNKh=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPgJGUQLxwDAt1Lonnx-x0dIVahmu0AMxXU2hQV=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM6SqlzIpaPmAKXk11SbMBV2KEwOhnipF90DB9M=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11 AM–12 AM",
+      "vendredi": "11 AM–12 AM",
+      "samedi": "11 AM–12 AM",
+      "dimanche": "11 AM–12 AM",
+      "lundi": "11 AM–12 AM",
+      "mardi": "11 AM–12 AM",
+      "mercredi": "11 AM–12 AM"
+    }
+  },
+  {
+    "name": "Restaurant Le Farfalla",
+    "description": "Restaurant",
+    "phone": "020 06 89 25",
+    "lat": 36.758744626567875,
+    "lng": 3.0296450106148765,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPdj7XAzF2dyWumOqnmBJlxNBf4ISJBNd9rwc9i=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO3DtCLrl6clS_O1S57odh3BxvJek2ugpkn4UfH=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNAZlXOPcmNLCJIHQoftcQStSxvmv5Svm6l1Hx7=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMYZ7hvBMRPbYTCPz2OCbcW2MBzt60I--pnpmbk=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10 AM–11 PM",
+      "vendredi": "2 - 11PM",
+      "samedi": "10 AM–11 PM",
+      "dimanche": "10 AM–11 PM",
+      "lundi": "10 AM–11 PM",
+      "mardi": "10 AM–11 PM",
+      "mercredi": "10 AM–11 PM"
+    }
+  },
+  {
+    "name": "Dzfood",
+    "description": "Pizza restaurant",
+    "phone": "0541 65 83 31",
+    "lat": 36.75384192860768,
+    "lng": 3.1898674696234264,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipNGghqFuzeuXr2JukKNujALdc3HoN-Nd1eR4bX4=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPvbPAmlM83YSXdL8cUJE66I_VY_5RTx6Bx-gIA=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMKEy9z9m7L4bFpW5jRzVogLFCrhzPFZBoAqRBs=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOHK0ao_9m8vvByOPTfG8OVwmz9QrxK98_X9ID2=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11 AM–12 AM",
+      "vendredi": "4 AM–12 AM",
+      "samedi": "11 AM–12 AM",
+      "dimanche": "11 AM–12 AM",
+      "lundi": "11 AM–12 AM",
+      "mardi": "11 AM–12 AM",
+      "mercredi": "11 AM–12 AM"
+    }
+  },
+  {
+    "name": "RESTAURANT EL HIDHAB",
+    "description": "Restaurant",
+    "phone": "0550 10 35 18",
+    "lat": 36.71919186888307,
+    "lng": 3.1978154404391126,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipNQDFeMpan-4p8aO4hyM6kfozAOJR_BdJW06QMH=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMBlBnhq9uTEQaIdBNOyPG8ii3SHt6_4wqP3fDL=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNp2kDWyxdM3Y96p-3PwHNjDgP8Oy_ziop7X5DD=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMFOktPn6HVAD5HjC4jyWD6CgiHi8tC8zPb5z_8=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNF1Rzd5mnRR4awSUOnsAtHSOaW-yzxbt5tySZn=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10 AM–10 PM",
+      "vendredi": "6 –10 PM",
+      "samedi": "10 AM–10 PM",
+      "dimanche": "10 AM–10 PM",
+      "lundi": "10 AM–10 PM",
+      "mardi": "10 AM–10 PM",
+      "mercredi": "10 AM–10 PM"
+    }
+  },
+  {
+    "name": "restaurant saoura",
+    "description": "Restaurant",
+    "phone": "0661 13 57 93",
+    "lat": 36.7690472592449,
+    "lng": 3.049027524908297,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOG7_kyz6qMxQDNBulGnQbmqeTvzo9demMG7XLa=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMO4qnPxR0DqhkK7OZoCwucqQyk87t5Wlag9J0x=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO1XRzjHzUQrw2byYuq7P-khkfPYLVy3MJUDvNT=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOlRStaWAuVaqfPVmF_qhC4L4_RN4L_Y5ZBGjWK=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "10 AM–11 PM",
+      "vendredi": "6 –11 PM",
+      "samedi": "10 AM–11 PM",
+      "dimanche": "10 AM–11 PM",
+      "lundi": "10 AM–11 PM",
+      "mardi": "10 AM–11 PM",
+      "mercredi": "10 AM–11 PM"
+    }
+  },
+  {
+    "name": "khayma localina خيمة المأكولات التقليدية",
+    "description": "Family restaurant",
+    "phone": "0558 24 21 57",
+    "lat": 36.75723904099012,
+    "lng": 3.0615985332668414,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOZmiiNtqrH-jF1s2BStduS_C7jj8O5t16gOh2o=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPKZbPQcxJQXvCkKpL94zDB9ZqIvch0LNajonsD=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMY3YGhSM3mLGSVz6ZjphS6Zoccc9WvMIiK0YHP=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOGELnA931EmDKpg3raiiGJwZmWZ7DQ0qEIWf_d=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11 AM–10:30 PM",
+      "vendredi": "Fermée",
+      "samedi": "11 AM–10:30 PM",
+      "dimanche": "11 AM–10:30 PM",
+      "lundi": "11 AM–10:30 PM",
+      "mardi": "11 AM–10:30 PM",
+      "mercredi": "11 AM–10:30 PM"
+    }
+  },
+  {
+    "name": "Kunafa Damas",
+    "description": "Dessert restaurant",
+    "phone": "0791 86 78 40",
+    "lat": 36.74608400871403,
+    "lng": 3.176098918866031,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipMG0KPzXtx817eOHCH7PuOnUtl6v9GUKumdqaDm=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMtDTl-OJvmP3mWI5I0XyTJfa7czOGgvePqLpVp=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNogTq24qTTvchrKbF6ldV9iMbFxta3YrYzjcKI=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPvypzrwyQmpn_1PY7wfBiJ9xuXORDxRjix5Gio=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 PM–12:30 AM",
+      "vendredi": "5 PM– 1 AM",
+      "samedi": "12 PM–12:30 AM",
+      "dimanche": "12 PM–12:30 AM",
+      "lundi": "12 PM–12:30 AM",
+      "mardi": "12 PM–12:30 AM",
+      "mercredi": "12 PM–12:30 AM"
+    }
+  },
+  {
+    "name": "Casbah Istanbul",
+    "description": "Turkish restaurant",
+    "phone": " 0554 13 06 25",
+    "lat": 36.716704795261414,
+    "lng": 3.195415694723788,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOTAOmAb6vt7HpCPheh5OSUZme5Es8z9aasZoAQ=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNRpT9sUJ9R_NAhb2y5JTGdex1u4u7hkeBCHCHu=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPCNot6YTGoYhvGJcD9J5HplKHcdH9rWT3XTI5M=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNZ8hqlFRkOc-HnCDDDbG7J7-RAf3dQx0c-R6T5=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "11 AM – 10:30 PM",
+      "vendredi": "2 – 11 PM",
+      "samedi": "11 AM – 10:30 PM",
+      "dimanche": "11 AM – 10:30 PM",
+      "lundi": "11 AM – 10:30 PM",
+      "mardi": "11 AM – 10:30 PM",
+      "mercredi": "11 AM – 10:30 PM"
+    }
+  },
+  {
+    "name": "Le Tantra restaurant",
+    "description": "Restaurant",
+    "phone": "021 65 46 54",
+    "lat": 36.74832211136227,
+    "lng": 3.0744130782724244,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPy-mHMWr--VulsWssn4L8OyvJgg64zZN3PNPOf=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipODr-lYzuOpSr5mJZ0EWAWTTudP_GbviNcno6DG=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN7jH9HSBTfqS8DquTVhpNe42PPLB9JYpBNXDrN=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNsZ40gMSOfOCmRs8YJN6j8g9hF6TqebOgn-hPO=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 PM–12 AM",
+      "vendredi": "12 PM–12 AM",
+      "samedi": "12 PM–12 AM",
+      "dimanche": "12 PM–12 AM",
+      "lundi": "12 PM–12 AM",
+      "mardi": "12 PM–12 AM",
+      "mercredi": "12 PM–12 AM"
+    }
+  },
+  {
+    "name": "Le Tantra restaurant",
+    "description": "Restaurant",
+    "phone": "021 65 46 54",
+    "lat": 36.74832211136227,
+    "lng": 3.0744130782724244,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPy-mHMWr--VulsWssn4L8OyvJgg64zZN3PNPOf=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipODr-lYzuOpSr5mJZ0EWAWTTudP_GbviNcno6DG=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipN7jH9HSBTfqS8DquTVhpNe42PPLB9JYpBNXDrN=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNsZ40gMSOfOCmRs8YJN6j8g9hF6TqebOgn-hPO=s680-w680-h510"
+    ],
+    "openingHours": {
+      "jeudi": "12 PM–12 AM",
+      "vendredi": "12 PM–12 AM",
+      "samedi": "12 PM–12 AM",
+      "dimanche": "12 PM–12 AM",
+      "lundi": "12 PM–12 AM",
+      "mardi": "12 PM–12 AM",
+      "mercredi": "12 PM–12 AM"
+    }
+  }
+]
